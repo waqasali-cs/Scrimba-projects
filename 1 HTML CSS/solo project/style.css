@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.container{
+    border: 1px solid black;
+    background-image: url("google.png");
+    
+    background-repeat: no-repeat;
+    background-position:30vw 12vh;
+    background-color: aqua;
+    display:inline-block;
+    background-size: 60%;
+    
+
+    
+    
+}
+
+.internal{
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 10;
+    font-family:  sans-serif;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+   
+    
+
+
